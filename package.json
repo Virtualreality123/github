@@ -1,0 +1,15 @@
+{
+  "name": "predictedge",
+  "version": "1.0.1",
+  "description": "PredictEdge prediction market dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "prediction-markets"
+  ],
+  "license": "MIT"
+}
