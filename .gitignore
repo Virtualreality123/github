@@ -10,3 +10,7 @@
 /features/settings.yml
 /test.log
 /tmp
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
